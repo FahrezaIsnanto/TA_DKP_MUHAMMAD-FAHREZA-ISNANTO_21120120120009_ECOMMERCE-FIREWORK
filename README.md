@@ -1,7 +1,7 @@
 
-<img src="https://image.flaticon.com/icons/png/512/1067/1067357.png"  width="50" height="50" />
+<img src="https://image.flaticon.com/icons/png/512/1067/1067357.png"  width="50" height="50" /> <img src="https://image.flaticon.com/icons/png/512/1067/1067357.png"  width="50" height="50" />
 
-##FIREWORKZA E-Commerce
+## FIREWORKZA E-Commerce
 
 E-Commerce khusus kembang api, dibuat dengan modul PDKP 2021
 PHP, Bootstrap
@@ -21,7 +21,7 @@ seperti berikut pada browser.
 
 terima kasih
 
-**Fahreza Isnanto,Teknik Komputer Undip, 2021** <img src="https://image.flaticon.com/icons/png/512/1067/1067357.png"  width="50" height="50" />
+**Fahreza Isnanto,Teknik Komputer Undip, 2021** 
 
 
 
